@@ -1,2 +1,2 @@
 # Pandas-Alura
-Notebook python  criado com o Colaboratory, onde exploro alguns fundamentos de análise de dados com uso da biblioteca pandas.
+Notebook python criado com o Colaboratory durante o curso Alura de Análise e exploração de dados com a biblioteca pandas.
